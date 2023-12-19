@@ -1,7 +1,7 @@
-import React, { useState } from 'react'
+import React from 'react'
 import styles from "./Navbar.module.css"
 import {getImageUrl} from "../../utils"
-
+import { useState } from 'react';
 
 
 export const Navbar = () => {
@@ -26,7 +26,7 @@ export const Navbar = () => {
           onClick={() => setMenuOpen(false)} >
           
             <li>
-              <a href="#about">About</a>
+              <a href="#about">A propos</a>
             </li>
             <li>
               <a href="#experience">Experiences</a>

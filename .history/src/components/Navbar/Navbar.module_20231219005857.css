@@ -16,9 +16,7 @@
     text-decoration: none;
     color: var(--color-text);
 }
-.menu {
-    display: flex;
-}
+
 .menuItems {
     display: flex;
     gap: 47px;
@@ -69,5 +67,6 @@
     .menuOpen {
         display: flex;
         z-index: 1; 
+        align-items: flex-end;
     }
 }

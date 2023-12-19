@@ -16,19 +16,17 @@
     text-decoration: none;
     color: var(--color-text);
 }
-.menu {
-    display: flex;
-}
+
 .menuItems {
     display: flex;
     gap: 47px;
-    list-style: none;
+    list-style:none;
 }
 
 .menuItems a {
     font-size: 25px;
     color: var(--color-text);
-    text-decoration: none;
+    text-decoration:none;
 }
 
 @media screen and (max-width: 830px) {
@@ -66,8 +64,5 @@
         box-shadow: 0 0 4px 0 rgba(0,0,0, 0.25);
     }
 
-    .menuOpen {
-        display: flex;
-        z-index: 1; 
-    }
+    .menuOpen
 }
