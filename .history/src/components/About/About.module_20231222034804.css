@@ -1,0 +1,6 @@
+@import "../../vars.css";
+
+.container {
+    position: relative;
+    background-color: rgba(red, green, blue, alpha);
+}
