@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Developpeur web",
+      "organisation": "W4D0 (stage)",
+      "startDate": "Juil, 2023",
+      "endDate": "Oct, 2023",
+      "experiences": ["Participation à la conception de composant et d'application web", "correction de bug"],
+      "imageSrc": "history/W4D0.png"
+    },
+    {
+      "role": "Développeur web",
+      "organisation": "E-petitpas.fr (stage)",
+      "startDate": "Dec, 2022",
+      "endDate": "Jan, 2023",
+      "experiences": ["Développement de pages web responsive liées à la plateforme E-learning"],
+      "imageSrc": "history/E.png"
+    },
+    {
+      "role": "Développeur Wordpress",
+      "organisation": "Goulmy",
+      "startDate": "Aout, 2022",
+      "endDate": "Sept, 2022",
+      "experiences": [
+        "Création du cahier des charges, des wireframes et des maquettes",
+        "Développement du site web de l'entreprise avec le CMS Wordpress"
+      ],
+      "imageSrc": "history/netflix.png"
+    }
+  ]

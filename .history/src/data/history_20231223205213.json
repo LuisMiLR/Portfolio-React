@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Software Engineer",
+      "organisation": "S4D0",
+      "startDate": "Juil, 2023",
+      "endDate": "Oct, 2023",
+      "experiences": ["Participation à la conception de composant et d'application web", "correction de bug"],
+      "imageSrc": "history/google.png"
+    },
+    {
+      "role": "Développeur web",
+      "organisation": "E-petitpas.fr",
+      "startDate": "Dec, 2022",
+      "endDate": "Jan, 2023",
+      "experiences": ["Développement de pages web responsive liées à la plateforme E-learning"],
+      "imageSrc": "history/microsoft.png"
+    },
+    {
+      "role": "Dévloppeur Wordpress",
+      "organisation": "Goulmy",
+      "startDate": "Apr, 2022",
+      "endDate": "Juin, 2022",
+      "experiences": [
+        "",
+        "Helped create UI components"
+      ],
+      "imageSrc": "history/netflix.png"
+    }
+  ]
