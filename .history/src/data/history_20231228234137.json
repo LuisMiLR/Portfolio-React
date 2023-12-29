@@ -1,0 +1,34 @@
+[
+  {
+    "role": "Developpeur web",
+    "organisation": "W4D0",
+    "startDate": "Juil, 2023",
+    "endDate": "Oct, 2023, (stage)",
+    "experiences": [
+      "Développement de l'application web avec React",
+      "correction de bug coté frontend et backend"
+    ],
+    "imageSrc": "history/W4D0.png"
+  },
+  {
+    "role": "Développeur web",
+    "organisation": "E-petitpas.fr",
+    "startDate": "Dec, 2022",
+    "endDate": "Jan, 2023, (stage)",
+    "experiences": [
+      "Développement de fonctionalités responsive de la plateforme E-learning",
+      "Projet de refonte du site vitrine HTML5 & CSS3"
+    ],
+    "imageSrc": "history/E-petitpas.png"
+  },
+  {
+    "role": "Développeur Wordpress",
+    "organisation": "Goulmy",
+    "startDate": "Aout, 2022",
+    "endDate": "Sept, 2022",
+    "experiences": [
+      "Développement du site vitrine de l'entreprise avec le CMS Wordpress"
+    ],
+    "imageSrc": "history/Goulmy.png"
+  }
+]

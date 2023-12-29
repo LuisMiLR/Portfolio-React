@@ -1,0 +1,26 @@
+[
+  {
+    "title": "TastyCook",
+    "imageSrc": "projects/project.png",
+    "description": "Site de recette concu pour apprendre les derniers langages en créant une application.",
+    "skills": ["React", "Sass", "Express", "Node", "MySql", "Sequelize"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/LuisMiLR/TastyCook-Recipe-FullStack-Project-Reactjs-Node.js-MySql"
+  },
+  {
+    "title": "Groupomania",
+    "imageSrc": "projects/project.png",
+    "description": "Site de recette concu pour apprendre les derniers langages en créant une application.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/LuisMiLR/Groupomania"
+  },
+  {
+    "title": "MyMovyApp",
+    "imageSrc": "projects/project.png",
+    "description": "Site de recette concu pour apprendre les derniers langages en créant une application.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
