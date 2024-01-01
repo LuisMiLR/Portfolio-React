@@ -8,7 +8,7 @@ export const Contact = () => {
     <footer id="Contact" className={styles.container}>
       <div className={styles.text}>
         <h2>Contact</h2>
-        <p>À votre entière disposition pour échanger ensemble</p>
+        <p>À votre entière disposition pour échanger </p>
       </div>
       <ul className={styles.links}>
         <li className={styles.link}>

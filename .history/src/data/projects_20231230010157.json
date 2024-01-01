@@ -1,0 +1,26 @@
+[
+  {
+    "title": "TastyCook",
+    "imageSrc": "projects/project.png",
+    "description": "Site de recettes (projet FullStack) au design responsive, permet aux membres de se connecter, créer, modifier et supprimer des recettes, sécurité : JWT, Bcrypt, Regex",
+    "skills": ["React", "Sass", "Express", "Node", "MySql", "Sequelize"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/LuisMiLR/TastyCook-Recipe-FullStack-Project-Reactjs-Node.js-MySql"
+  },
+  {
+    "title": "Groupomania",
+    "imageSrc": "projects/project.png",
+    "description": "Création un réseau social d'entreprise, projet FullStack, les données sont chargés dynamiquement depuis la base de donnée, sécurité JWT, Brcypt, Regex ",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/LuisMiLR/Groupomania"
+  },
+  {
+    "title": "My Movie App",
+    "imageSrc": "projects/project.png",
+    "description": "Cette application web  crée exclusivement en Javascript, utilise l'API de The Movies database, (cinéma) Projet réalisé intégralement en vanilla et le DOM .",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/LuisMiLR/MyMovieApp--TMDB-API--JavaScript"
+  }
+]

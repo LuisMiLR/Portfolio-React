@@ -1,7 +1,7 @@
 @import "../../vars.css";
 
 .container {
-  margin-top: 90px;
+  margin-top: 86px;
   color: var(--color-text);
   margin-left: 10%;
   margin-right: 10%;
@@ -9,7 +9,7 @@
 
 .title {
   font-size: 30px;
-  font-weight: 600;
+  font-weight: 700;
   letter-spacing: 0.5px;
   margin-left: -1px;
   text-transform: uppercase;

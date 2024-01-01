@@ -8,7 +8,7 @@
   flex-direction: row;
   justify-content: space-between;
   width: 100vw;
-  padding: 42px 10%;
+  padding: 18px 10%;
   gap: 10px;
 }
 
@@ -44,7 +44,7 @@
 }
 
 .link img {
-  width: 10%;
+  width: 50%;
 }
 
 .link a {

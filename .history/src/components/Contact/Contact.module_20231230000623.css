@@ -8,7 +8,7 @@
   flex-direction: row;
   justify-content: space-between;
   width: 100vw;
-  padding: 42px 10%;
+  padding: 18px 10%;
   gap: 10px;
 }
 
@@ -21,7 +21,7 @@
 
 .text p {
   font-size: 22px;
-  font-weight: 500;
+  font-weight: 400;
   letter-spacing: 1px;
 }
 
@@ -41,10 +41,6 @@
   display: flex;
   align-items: center;
   gap: 15px;
-}
-
-.link img {
-  width: 10%;
 }
 
 .link a {

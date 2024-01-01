@@ -16,13 +16,14 @@
 
 .title {
   font-size: 22px;
-  font-weight: 500;
+  font-weight: 600;
   margin-bottom: 12px;
 }
 
 .description {
   margin-top: 6px;
   font-size: 18px;
+  font-weight: 300;
 }
 
 .containSkill {

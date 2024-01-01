@@ -10,7 +10,7 @@
   {
     "title": "Groupomania",
     "imageSrc": "projects/project.png",
-    "description": "Création un réseau social d'entreprise, projet FullStack, les données sont chargés dynamiquement depuis la base de donnée, sécurité JWT, Bcrypt, Regex ",
+    "description": "Création un réseau social d'entreprise, projet FullStack, les données sont chargés dynamiquement depuis la base de donnée, sécurité JWT, Brcypt, Regex ",
     "skills": ["JavaScrypt", "CSS", "Node", "Express", "MySql"],
     "demo": "https://www.example.com",
     "source": "https://github.com/LuisMiLR/Groupomania"

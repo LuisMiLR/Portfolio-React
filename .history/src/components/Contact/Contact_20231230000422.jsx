@@ -9,6 +9,7 @@ export const Contact = () => {
       <div className={styles.text}>
         <h2>Contact</h2>
         <p>À votre entière disposition pour échanger ensemble</p>
+        <p>Luis Miguel Robles</p>
       </div>
       <ul className={styles.links}>
         <li className={styles.link}>
