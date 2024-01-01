@@ -38,11 +38,6 @@
   gap: 11px;
 }
 
-.skill:hover {
-  transform: scale(1.1);
-  transition: 0.8;
-}
-
 .skillImageContainer {
   background-color: var(--color-secondary);
   border-radius: 100%;
@@ -51,6 +46,11 @@
   justify-content: center;
   width: 120px;
   height: 120px;
+}
+
+.skillImagecontainer :hover {
+  transform: scale(1.1);
+  background-color: green;
 }
 
 .skillImageContainer img {

@@ -12,13 +12,7 @@
 
 .image {
   width: 100%;
-  border-radius: 2%;
   margin-bottom: 26px;
-}
-
-.image:hover {
-  transform: scale(1.1);
-  transition: 0.4s;
 }
 
 .title {
@@ -30,7 +24,6 @@
 .description {
   margin-top: 6px;
   font-size: 18px;
-  color: var(--color-text);
 }
 
 .containSkill {

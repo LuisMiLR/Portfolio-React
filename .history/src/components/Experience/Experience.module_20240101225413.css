@@ -38,11 +38,6 @@
   gap: 11px;
 }
 
-.skill:hover {
-  transform: scale(1.1);
-  transition: 0.8;
-}
-
 .skillImageContainer {
   background-color: var(--color-secondary);
   border-radius: 100%;
@@ -83,6 +78,8 @@
 
 .historyItem img {
   width: 50px;
+  transform: scale(1.1);
+  transition: 0.4;
 }
 
 .historyItemDetails {

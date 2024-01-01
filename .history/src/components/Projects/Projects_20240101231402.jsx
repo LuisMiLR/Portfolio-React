@@ -14,7 +14,7 @@ export const Projects = () => {
           return <ProjectCard key={id} project={project} />;
         })}
       </div>
-      <p className={styles.text}>Retrouvez l'ensemble de mes projets sur mon GitHub </p>
+      <p>Retrouvez l'ensemble de mes projets sur mon GitHub </p>
     </section>
   );
 };

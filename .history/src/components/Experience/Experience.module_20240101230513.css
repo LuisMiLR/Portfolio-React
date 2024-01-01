@@ -39,6 +39,8 @@
 }
 
 .skill:hover {
+  transition: 1s transform;
+  width: 100%;
   transform: scale(1.1);
   transition: 0.8;
 }
