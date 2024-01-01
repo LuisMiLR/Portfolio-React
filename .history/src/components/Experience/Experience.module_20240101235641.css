@@ -40,7 +40,7 @@
 
 .skill:hover {
   transform: scale(1.1);
-  transition: 0.1;
+  transition: 0.8;
 }
 
 .skillImageContainer {
@@ -51,6 +51,7 @@
   justify-content: center;
   width: 120px;
   height: 120px;
+  color: aqua;
 }
 
 .skillImageContainer img {

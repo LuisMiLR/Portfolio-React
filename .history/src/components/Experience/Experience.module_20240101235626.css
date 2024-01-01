@@ -40,7 +40,8 @@
 
 .skill:hover {
   transform: scale(1.1);
-  transition: 0.1;
+  transition: 0.8;
+  color: aqua;
 }
 
 .skillImageContainer {

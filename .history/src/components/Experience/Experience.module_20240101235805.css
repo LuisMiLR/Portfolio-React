@@ -40,7 +40,7 @@
 
 .skill:hover {
   transform: scale(1.1);
-  transition: 0.1;
+  transition: 0.8;
 }
 
 .skillImageContainer {
@@ -61,6 +61,11 @@
   font-size: 22px;
   font-family: var(--font-roboto);
   font-weight: 400;
+}
+
+.skill p:hover {
+  transform: var(--color-secondary);
+  transition: 0.8;
 }
 
 .history {
