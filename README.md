@@ -17,13 +17,13 @@ Portfolio personnel développé avec React.js en utilisant Vite pour la créatio
 - Vite (pour la création rapide)
 - Modules CSS personnalisés
 
-## Comment visualiser le portfolio
+## visuel 
 
-1. Visitez [www.lmrobles.fr](https://www.lmrobles.fr) pour accéder à la version en ligne.
+![capture d'ecran](https://github.com/LuisMiLR/Portfolio-React/blob/master/Portfolio-luis-miguel-robles.png)
 
 ## Utilisation de Vite
 
-Ce projet utilise Vite pour une création rapide. Pour démarrer le projet localement, assurez-vous d'installer Vite globalement avec la commande :
+Ce projet utilise Vite pour une création rapide. Pour démarrer le projet localement, assurez-vous d'installer Vite globalement
 
 
 **Auteur :** LuisMiLR
