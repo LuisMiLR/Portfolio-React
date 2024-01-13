@@ -1,8 +1,31 @@
-# React + Vite
+# Portfolio personnel React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+Portfolio personnel développé avec React.js en utilisant Vite pour la création rapide. Vous pouvez consulter la version en ligne à l'adresse [www.lmrobles.fr](https://www.lmrobles.fr). Le portfolio présente mes projets, compétences, et expériences professionnelles.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Fonctionnalités
+
+- Présentation de projets réalisés.
+- Détails sur les compétences et technologies maîtrisées.
+- Informations sur l'expérience professionnelle.
+- Liens vers les réseaux sociaux et autres contacts.
+
+## Technologies utilisées
+
+- React.js
+- Vite (pour la création rapide)
+- Modules CSS personnalisés
+
+## Comment visualiser le portfolio
+
+1. Visitez [www.lmrobles.fr](https://www.lmrobles.fr) pour accéder à la version en ligne.
+
+## Utilisation de Vite
+
+Ce projet utilise Vite pour une création rapide. Pour démarrer le projet localement, assurez-vous d'installer Vite globalement avec la commande :
+
+
+**Auteur :** LuisMiLR
+**Date de création :** Date 18.12.2023
+
