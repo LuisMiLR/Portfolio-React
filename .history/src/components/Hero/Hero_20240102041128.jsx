@@ -27,11 +27,14 @@ export const Hero = () => {
       </div>
       <img
         src={getImageUrl("hero/heroPic1.png")}
-        alt="ma photo de profil"
+        alt="Hero image of me"
         className={styles.heroImg}
       />
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
     </section>
+    /*Développeur web FullStack Javascript avec une forte appétence pour le frontend, j'utilise React et NodeJS. 
+motivé à travailler sur des projets d'envergure avec une équipe d'éxpert et déterminer à développer mes compétences. 
+Je vous invite à en savoir plus sur mon profil, contactez moi ! */
   );
 };

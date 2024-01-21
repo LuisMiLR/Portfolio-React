@@ -5,7 +5,7 @@ import { getImageUrl } from "../../utils";
 
 export const Contact = () => {
   return (
-    <footer id="contact" className={styles.container}>
+    <footer id="Contact" className={styles.container}>
       <div className={styles.text}>
         <h2>Contact</h2>
         <p>À votre entière disposition pour échanger.</p>
