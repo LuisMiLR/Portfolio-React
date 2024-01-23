@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 
 import styles from "./ProjectCard.module.css";
 import { getImageUrl } from "../../utils";
@@ -6,6 +6,7 @@ import { getImageUrl } from "../../utils";
 export const ProjectCard = ({
   project: { title, imageSrc, description, skills, demo, source },
 }) => {
+  const [demoLinkEnabled, setDemoLinkEnabled] = useState(!!demo);
   return (
     <div className={styles.container}>
       <img
@@ -27,7 +28,7 @@ export const ProjectCard = ({
         </ul>
       </div>
       <div className={styles.links}>
-        <a href={demo} className={styles.link}>
+        <a href={demoLinkEnabled ? demo : "#"} className={styles.link}>
           Demo
         </a>
         <a href={source} className={styles.link} target="_blank">

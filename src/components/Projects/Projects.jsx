@@ -15,7 +15,8 @@ export const Projects = () => {
         })}
       </div>
       <p className={styles.text}>
-        Retrouvez l'ensemble de mes projets sur GitHub
+        Les demonstrations des projets seront disponible sous peu. Retrouvez
+        l'ensemble de mes projets sur GitHub
       </p>
     </section>
   );

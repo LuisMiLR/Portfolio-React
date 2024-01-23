@@ -2,7 +2,7 @@
   {
     "title": "TastyCook",
     "imageSrc": "projects/TastyCook.png",
-    "description": "Site de recettes, projet FullStack, au design responsive, permet aux membres de se connecter, créer, modifier et supprimer des recettes, sécurité: JWT, Bcrypt, Regex",
+    "description": "Site de recettes, projet FullStack, au design responsive, permet aux membres de se connecter, créer, modifier et supprimer des recettes, sécurité: JWT, Bcrypt, CORS",
     "skills": ["React", "Sass", "Express", "Node", "MySql", "Sequelize"],
     "demo": "",
     "source": "https://github.com/LuisMiLR/TastyCook-Recipe-FullStack-Project-Reactjs-Node.js-MySql"
